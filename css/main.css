@@ -1,6 +1,22 @@
 a {
   text-decoration: none;
 }
-nav li {
+/* style my navigation
+ */
+/* this is how you do comments in css */
+
+#masthead li {
   list-style: none;
+}
+#masthead {
+background-color: orange;
+}
+
+.feature {
+  border: 1px solid black;
+}
+
+div h1 {
+  color: red;
+  font-size: 3em;
 }
